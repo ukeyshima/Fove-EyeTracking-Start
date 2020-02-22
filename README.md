@@ -12,7 +12,7 @@ Download [Fove Setup](https://www.getfove.com/developers/)
 
 ## Usage
 
-- Connection Fove0
+- Connection Fove 0
 
 - Launch FoveVR Application
 
