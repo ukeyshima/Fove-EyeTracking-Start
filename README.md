@@ -12,6 +12,8 @@ Download [Fove Setup](https://www.getfove.com/developers/)
 
 ## Usage
 
+- Connection Fove0
+
 - Launch FoveVR Application
 
 - Show debug tools and Start Callibration
